@@ -27,4 +27,7 @@ $ whoami
 > “malloc() is my love language and segfaults are just spicy debugging sessions.” <br><br>
 
 📬 reach out if you’re building interesting systems or breaking them.
+<hr>
+
+Since you're here now, do check out [systems-repository](https://github.com/segfaultscribe/systems-repository): A collection of small C projects that'll help you learn C and dive into systems level programming. It's still a baby repository but it's growing fast! Contributions are more than welcome. <br>Time to start seeing some `segmentation faults`, eh? 
 
