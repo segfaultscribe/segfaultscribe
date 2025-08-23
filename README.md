@@ -26,7 +26,9 @@ $ whoami
 
 > “malloc() is my love language and segfaults are just spicy debugging sessions.” <br><br>
 
-📬 reach out if you’re building interesting systems or breaking them.
+📬 reach out if you’re building interesting systems or breaking them.<br><br>
+<a href="https://x.com/adithyalennzer"><img src="https://img.icons8.com/?size=100&id=8HtzWaaC5y60&format=png&color=000000" height="35" width="35" alt="twitter/X"></img></a>
+<a href="mailto:segfaultscribe@gmail.com"><img src="https://img.icons8.com/?size=100&id=Cjuj2uISMdQ1&format=png&color=000000" height="35" width="35" alt="gmail/email"></img></a>
 <hr>
 
 Since you're here now, do check out [systems-repository](https://github.com/segfaultscribe/systems-repository): A collection of small C projects that'll help you learn C and dive into systems level programming. It's still a baby repository but it's growing fast! Contributions are more than welcome. <br>Time to start seeing some `segmentation faults`, eh? 
