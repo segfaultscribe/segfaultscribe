@@ -21,10 +21,10 @@ $ whoami
 ┌─ debugging life one segfault at a time ─┐<br>
 🔧 currently: venturing into C, C++, AI, CUDA, GPU things<br>
 🧠 interests: systems, compilers, memory models, edge cases, and undefined behavior<br>
-🚫 not a fan of: bloated abstractions (brotha eughw!)<br><br>
+🚫 not a fan of: bloated abstractions<br><br>
 
 
-> “malloc() is my love language and segfaults are just spicy debugging sessions.” <br><br>
+> “segfaults are just spicy debugging sessions.” <br><br>
 
 📬 reach out if you’re building interesting systems or breaking them.<br><br>
 <a href="https://x.com/adithyalennzer"><img src="https://img.icons8.com/?size=100&id=8HtzWaaC5y60&format=png&color=000000" height="35" width="35" alt="twitter/X"></img></a>
