@@ -7,7 +7,7 @@ $ whoami
 🔧 currently: venturing into C, C++, AI, CUDA, GPU things<br>
 🧠 interests: systems, compilers, memory models, edge cases, and undefined behavior<br>
 🚫 not a fan of: bloated abstractions<br><br>
-🤖 AI/ML backdorund, peeking under the hood of inference optimization
+🤖 AI/ML background, peeking under the hood of inference optimization
 
 
 > “segfaults are just spicy debugging sessions.” <br><br>
