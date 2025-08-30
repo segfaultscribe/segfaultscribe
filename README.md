@@ -4,11 +4,11 @@ $ whoami
 > low level systems guy. C, C++ ... whatever gets me closer to the hardware, closer to performance.
 ```
 ┌─ debugging life one segfault at a time ─┐<br>
-🔧 currently: venturing into C, C++, AI, CUDA, GPU things<br>
+🔧 currently: venturing into C, C++, systems AI/ML, CUDA, GPU things<br>
 🧠 interests: systems, compilers, memory models, edge cases, and undefined behavior<br>
 🚫 not a fan of: bloated abstractions<br><br>
-🤖 AI/ML background, peeking under the hood of inference optimization
 
+🥱 Full-stack web developer when I'm bored
 
 > “segfaults are just spicy debugging sessions.” <br><br>
 
