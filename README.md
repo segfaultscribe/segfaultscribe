@@ -1,16 +1,16 @@
 ### Oi !👋
 ```
 $ whoami
-> low level systems guy. C, C++ ... whatever gets me closer to the hardware, closer to performance.
+> 💻 low level systems guy. C, C++ ... whatever gets me closer to the hardware, closer to performance.
+> 🥱 Full-stack web developer when I'm bored
 ```
 ┌─ debugging life one segfault at a time ─┐<br>
 🔧 currently: venturing into C, C++, systems AI/ML, CUDA, GPU things<br>
 🧠 interests: systems, compilers, memory models, edge cases, and undefined behavior<br>
-🚫 not a fan of: bloated abstractions<br><br>
-
-🥱 Full-stack web developer when I'm bored
-
-> “segfaults are just spicy debugging sessions.” <br><br>
+🚫 not a fan of: bloated abstractions<br>
+><br>
+> 'A pointer to a pointer' is just 'I know a guy who knows a guy'<br><br>
+>
 
 📬 reach out if you’re building interesting systems or breaking them.<br><br>
 <a href="https://x.com/adithyalennzer"><img src="https://img.icons8.com/?size=100&id=8HtzWaaC5y60&format=png&color=000000" height="35" width="35" alt="twitter/X" title="X/twitter handle"></img></a>
