@@ -6,8 +6,6 @@ $ whoami
 ```
 ┌─ **🔧 Current** ─┐<br>
 🧵 Backend systems (concurrency, async workflows, reliability)<br>
-🕰️ Task orchestration & scheduling<br>
-🔔 Notification systems (API-first, async, retries)<br>
 ⚙️ Performance, observability, and boring correctness<br>
 🗣 Active Languages: `Go`, `TypeScript`, `C` <br>
 
