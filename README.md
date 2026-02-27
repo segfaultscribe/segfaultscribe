@@ -5,7 +5,7 @@ $ whoami
 > Focused on Internal tools and infrastructure.
 ```
 ┌─ **🔧 Core** ─┐<br>
-🧵 Backend systems (concurrency, async workflows, reliability)<br>
+🧵 Backend systems (concurrency, tradeoffs, reliability)<br>
 ⚙️ Performance, observability, and "boring" correctness<br>
 🗣 Active Languages: `Go`, `TypeScript`, `Python` <br>
 
