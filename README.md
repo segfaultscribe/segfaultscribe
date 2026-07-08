@@ -10,8 +10,9 @@ $ whoami
 🗣 Active Language: `Go` (ocassionally `TypeScript`)<br>
 
 ### **Highlighted Repos**<br/>
+- [conduit](https://github.com/segfaultscribe/conduit): A change data capture engine tailing postgreSQL WAL with a pluggable sink for data pipelining.
+- [fees-api](https://github.com/segfaultscribe/fees-api): A durable billing API that opens a bill and facilitates the progressive accrual of fees.
 - [waford](https://github.com/segfaultscribe/waford): an asynchronous, highly concurrent fan-out delivery system that reliably forwards webhook events.
-- [dripline](https://github.com/segfaultscribe/systems-repository): A usage enforcement focused reverse proxy built using Typescript in Bun and ElysiaJS.<br/>
 - [systems-repository](https://github.com/segfaultscribe/systems-repository): A collection of small C projects that'll help you learn C and dive into systems level programming. <br>Time to start seeing some `segmentation faults`, eh?
 <br/>
 
