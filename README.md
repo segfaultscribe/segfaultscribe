@@ -7,7 +7,7 @@ $ whoami
 ┌─ **🔧 Core** ─┐<br>
 🧵 Backend systems (application infrastructure, internal tools, pipelines and workflows)<br>
 ⚙️ Performance, observability, and "boring" correctness<br>
-🗣 Active Language: `Go` (occasionally `TypeScript`)<br>
+🗣 Active Language: `Go`, `Java` <br>
 
 ### **Highlighted Repos**<br/>
 - [conduit](https://github.com/segfaultscribe/conduit): A change data capture engine tailing postgreSQL WAL with a pluggable sink for data pipelining.
